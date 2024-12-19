@@ -17,6 +17,18 @@
         },
         "role_library.pdf": {
             "directory": "employeeinfo"
+        },
+        "SOW.pdf": {
+            "directory": "employeeinfo"
+        },
+        "SOW2.pdf": {
+            "directory": "employeeinfo"
+        },
+        "SOW3.pdf": {
+            "directory": "employeeinfo"
+        },
+        "erci_sow_iace_edt-eng.pdf": {
+            "directory": "employeeinfo"
         }
     },
     "directories": {

@@ -17,7 +17,16 @@
         },
         "role_library.pdf": {
             "directory": "employeeinfo"
-        }
+        },
+        "SOW.pdf": {
+            "directory": "employeeinfo"
+        },
+        "SOW2.pdf": {
+            "directory": "employeeinfo"
+        },
+        "SOW3.pdf": {
+            "directory": "employeeinfo"
+        },
     },
     "directories": {
         "employeeinfo": {
